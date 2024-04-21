@@ -1,2 +1,3 @@
-#📃 Aula Introdução ao Kotlin
+📃 Aula: Introdução ao Kotlin.
+
 Projeto em Kotlin, usando os componentes básicos.
